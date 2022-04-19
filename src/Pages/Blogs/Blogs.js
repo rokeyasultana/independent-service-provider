@@ -3,7 +3,7 @@ import React from 'react';
 const Blogs = () => {
     return (
         <div>
-          <div class="row row-cols-1 row-cols-md-3 g-4 mt-5">
+          <div class="row row-cols-1 row-cols-md-3 g-4 mt-5 ms-5 me-5">
   <div class="col">
     <div class="card">
       
