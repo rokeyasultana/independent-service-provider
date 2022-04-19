@@ -1,0 +1,9 @@
+.services-tittle{
+    text-align: center;
+    color: coral;
+}
+.services-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:20px ;
+}
