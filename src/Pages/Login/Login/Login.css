@@ -1,0 +1,10 @@
+.login-tittle{
+    color: coral;
+   text-align: center;
+}
+.login{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    width: 50%;
+}
