@@ -8,6 +8,7 @@ import NotFound from './Pages/NotFound/NotFound';
 
 import Footer from './Pages/Shared/Footer/Footer';
 import Header from './Pages/Shared/Header/Header';
+import WhyMe from './Pages/WhyMe/WhyMe';
 
 function App() {
   return (
@@ -16,9 +17,10 @@ function App() {
       <Routes>
         <Route path='/' element={<Home></Home>}>Home</Route>
         <Route path='/home' element={<Home></Home>}>Home</Route>
-        <Route path='/about' element={<About></About>}>About</Route>
+        <Route path='/whyme' element={<WhyMe></WhyMe>}>Why Me</Route>
         <Route path='/blogs' element={<Blogs></Blogs>}>Blogs</Route>
-        <Route path='/login' element={<Login></Login>}>Blogs</Route>
+        <Route path='/login' element={<Login></Login>}>Login</Route>
+        <Route path='/about' element={<About></About>}>About</Route>
         <Route path='*'element={<NotFound></NotFound>}>NotFound</Route>
       </Routes>
       <Footer></Footer>
