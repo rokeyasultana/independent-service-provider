@@ -1,0 +1,13 @@
+.card{
+    border: 1px solid coral;
+
+}
+.tittle{
+    text-align: center;
+    color: coral;
+    margin-top: 10px;
+}
+#checkout{
+    margin-left: 144px;
+    margin-right: 144px;
+}
