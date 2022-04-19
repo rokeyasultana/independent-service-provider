@@ -4,6 +4,7 @@ import About from './Pages/About/About';
 import Blogs from './Pages/Blogs/Blogs';
 import Home from './Pages/Home/Home/Home ';
 import Login from './Pages/Login/Login/Login';
+import Register from './Pages/Login/Register/Register';
 import NotFound from './Pages/NotFound/NotFound';
 
 import Footer from './Pages/Shared/Footer/Footer';
@@ -20,6 +21,7 @@ function App() {
         <Route path='/whyme' element={<WhyMe></WhyMe>}>Why Me</Route>
         <Route path='/blogs' element={<Blogs></Blogs>}>Blogs</Route>
         <Route path='/login' element={<Login></Login>}>Login</Route>
+        <Route path='/register' element={<Register></Register>}>Register</Route>
         <Route path='/about' element={<About></About>}>About</Route>
         <Route path='*'element={<NotFound></NotFound>}>NotFound</Route>
       </Routes>
