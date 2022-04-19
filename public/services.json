@@ -10,35 +10,35 @@
         "id": 2,
         "name": "Dishwasher Repair",
         "price": "85",
-        "description": "When your dishes are consistently cloudy or still dirty after a cycle, you may need dishwasher repair or service. We can help prevent ineffective wash cycles and damaging leaks!",
+        "description": "When your dishes are consistently cloudy or still dirty after a cycle, you may need dishwasher repair or service. I can help prevent ineffective wash cycles and damaging leaks!",
         "img": "https://www.proservlv.com/wp-content/uploads/2018/09/shutterstock_1176435871.jpg"
     },
     {
         "id": 3,
         "name": "Microwave Oven Repair",
-        "price": "100",
-        "description": "Problems you might experience with your microwave oven include sparks inside the microwave and a damaged turntable. Our technicians can fix that for you!",
+        "price": "80",
+        "description": "Problems you might experience with your microwave oven include sparks inside the microwave and a damaged turntable. I will fix that for you!",
         "img": "https://repaircentrejum.in/wp-content/uploads/2021/01/20200227143544.jpeg"
     },
     {
         "id": 4,
         "name": "Oven, Stove, & Range Repair",
-        "price": "90",
+        "price": "50",
         "description": "Issues with these appliances can include burners that are not turning on, failure to heat to the right temperature, and a damaged self-cleaning function. Notice any issues? Schedule an appointment.",
         "img": "https://www.urbanrepairing.in/wp-content/uploads/2021/04/01.jpg"
     },
     {
         "id": 5,
         "name": "Ice Maker Repair",
-        "price": "100",
-        "description": "Common issues associated with ice makers or machines are clogged water filters and slow cube production. Mr. Appliance pros can fix those issues and other ice maker problems.The good news is that Mr. Appliance technicians are here to help. Ice maker troubleshooting and repair is part of our everyday agenda.",
+        "price": "90",
+        "description": "Common issues associated with ice makers or machines are clogged water filters and slow cube production. I can fix those issues and other ice maker problems.The good news is I am here to help.",
         "img": "https://appliancerepairservicespring-tx.com/wp-content/uploads/1396455435156-1024x675.jpg"
     },
     {
         "id": 6,
         "name": "Kitchen Exhaust Fan Repair",
         "price": "85",
-        "description": "Incorrect range hood configuration and size may lead to issues. If you notice poor kitchen exhaust fan performance or strange noises coming from the vent hood fan motor, give us a call.",
+        "description": "Incorrect range hood configuration and size may lead to issues. If you notice poor kitchen exhaust fan performance or strange noises coming from the vent hood fan motor, give me a call.",
         "img": "https://st2.depositphotos.com/1010613/8292/i/600/depositphotos_82921788-stock-photo-repairman-repairing-kitchen-extractor-filter.jpg"
     }
 ]

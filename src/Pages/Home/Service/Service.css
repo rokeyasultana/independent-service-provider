@@ -6,3 +6,13 @@
     text-align: center;
    
 }
+.button{
+    background-color: coral;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.service button:hover{
+    background-color: black;
+    color: chocolate;
+}
